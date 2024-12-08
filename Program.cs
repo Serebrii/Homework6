@@ -8,9 +8,9 @@ using System;
 
 try
 {
-    const string InputPath = "C:\\Users\\45ksu\\Desktop\\ООП\\ДЗ6\\ConsoleApp1\\input.json";
+    const string InputPath = "C:\\Users\\Admin\\Desktop\\ООП\\ДЗ6\\ConsoleApp1\\input.json";
 
-    const string OutputPath = "C:\\Users\\45ksu\\Desktop\\ООП\\ДЗ6\\ConsoleApp1\\output.json";
+    const string OutputPath = "C:\\Users\\Admin\\Desktop\\ООП\\ДЗ6\\ConsoleApp1\\output.json";
 
     FileStream fs = new FileStream(InputPath, FileMode.OpenOrCreate);
 
